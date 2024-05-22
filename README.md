@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://static.vecteezy.com/system/resources/previews/030/965/623/original/sentiment-analysis-icon-vector.jpg" width = 200 alt="Logo">
+</p>
+<p align="center"><em>by Vecteezy</em></p>
+
 # NFT Sentiment Analysis
 
 ## Introduction
