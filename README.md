@@ -62,11 +62,3 @@ This project can serve as a basis for further research into the relationship bet
 - Python 3.8
 - Libraries: opensea, pandas, numpy, requests, snscrape, transformers, emoji, nltk, scikit-learn, imbalanced-learn
 
-## Contributors
-
-- [Your Name]
-- [Other Contributors]
-
-## License
-
-This project is licensed under the [License Name] License - see the `LICENSE.md` file for details.
